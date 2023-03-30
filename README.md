@@ -1,1 +1,1 @@
-# Kafka-Stock-Market-Streaming-Analysis
+# kafka-stock-market-streaming-analysis
